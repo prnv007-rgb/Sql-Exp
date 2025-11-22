@@ -165,7 +165,7 @@ User Question → Generate SQL
 
 ## 📸 Demo
 
-See `demo/screenshots/` for terminal outputs showing:
+See `demo/screenshots ` for terminal outputs showing:
 - Self-correction loop in action
 - All 3 test cases with results
 - Validation logs
@@ -210,7 +210,7 @@ See `demo/screenshots/` for terminal outputs showing:
 ├── requirements.txt      # Dependencies
 ├── README.md            # This file
 ├── demo/
-│   └── screenshots/     # Terminal output screenshots
+│   └── screenshots     # Terminal output screenshots
 └── ecommerce.db         # Generated SQLite database
 ```
 
