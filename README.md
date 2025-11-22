@@ -237,7 +237,9 @@ See `demo/screenshots ` for terminal outputs showing:
 ## 👨‍💻 Author
 
 **Name:** Pranav R Mallia
+
 **Email:** pranavmallia2004@gmail.com
+
 **Submission Date:** 22-11-2025
 
 ---
