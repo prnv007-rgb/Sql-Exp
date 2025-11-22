@@ -6,7 +6,7 @@
 
 This project implements an agentic SQL generation system using **Qwen2.5:1.5b** (1.5B parameters) that converts natural language into SQL queries with automatic error correction.
 
-**Challenge Selected:** Option 3 - "The Tiny SQL Expert (SLM Optimization)"
+**Challenge Selected:** 3 - "The Tiny SQL Expert "
 
 ---
 
