@@ -1,6 +1,6 @@
-# 🤖 Tiny SQL Expert - AI Internship Challeng
+# 🤖 Tiny SQL Expert - AI Internship Challenge
 
-**Option 3: Small Language Model SQL Generation with Self-Correction**
+Goal: Small Language Model SQL Generation with Self-Correction**
 
 ---
 
