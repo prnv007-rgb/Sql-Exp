@@ -43,8 +43,8 @@ orders (order_id, user_id, product_id, quantity, order_date)
 
 ### Step 1: Clone Repository
 ```bash
-git clone <your-repo-url>
-cd <your-repo-name>
+git clone https://github.com/prnv007-rgb/Sql-Exp.git
+cd p1
 ```
 
 ### Step 2: Install Ollama Model
