@@ -1,6 +1,4 @@
-# 🤖 Tiny SQL Expert - AI Internship Challenge
-
-Goal: Small Language Model SQL Generation with Self-Correction**
+# 🤖 Tiny SQL Expert - AI Internship Challenge (NviSust) 
 
 ---
 
@@ -238,10 +236,9 @@ See `demo/screenshots/` for terminal outputs showing:
 
 ## 👨‍💻 Author
 
-**Name:** [Your Name]  
-**Email:** [Your Email]  
-**GitHub:** [Your GitHub Username]  
-**Submission Date:** [Today's Date]
+**Name:** Pranav R Mallia
+**Email:** pranavmallia2004@gmail.com
+**Submission Date:** 22-11-2025
 
 ---
 
@@ -255,7 +252,7 @@ This project was created for the AI/ML Internship Selection Challenge.
 
 - **Model:** Alibaba Qwen Team for Qwen2.5
 - **Framework:** Ollama for local LLM inference
-- **Challenge:** [Company Name] AI Internship
+- **Challenge:** NviSust AI Internship
 
 ---
 
