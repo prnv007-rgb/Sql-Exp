@@ -1,0 +1,15 @@
+# Tiny SQL Expert - Requirements
+# Python 3.8+
+
+# This project uses only Python standard library:
+# - subprocess (for Ollama communication)
+# - sqlite3 (for database operations)
+# - re (for SQL parsing)
+
+# External Requirements (install separately):
+# 1. Ollama: https://ollama.ai/download
+#    After installing, run: ollama pull qwen2.5:1.5b
+
+# development tools:
+# pylint>=2.17.0
+# black>=23.0.0
